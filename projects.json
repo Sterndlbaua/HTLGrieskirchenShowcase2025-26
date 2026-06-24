@@ -164,6 +164,13 @@
     "status": 1
   },
   {
+        "title": "JumpnRun",
+    "folder": "JumpnRun",
+    "author": "Stefan Wenzlhumer",
+    "year": "2026_SS",
+    "status": 1
+  },
+  {
         "title": "Katamari_V1",
     "folder": "Katamari_V1",
     "author": "Elias Auinger",
