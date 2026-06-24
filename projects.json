@@ -162,5 +162,12 @@
     "author": "Angelika Köck",
     "year": "2026_SS",
     "status": 1
+  },
+  {
+        "title": "Katamari_V1",
+    "folder": "Katamari_V1",
+    "author": "Elias Auinger",
+    "year": "2026_SS",
+    "status": 1
   }
 ]
