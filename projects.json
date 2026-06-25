@@ -184,5 +184,12 @@
     "author": "Elias Auinger",
     "year": "2026_SS",
     "status": 1
+  },
+  {
+    "title": "NeonDrift",
+    "folder": "NeonDrift",
+    "author": "Jonas Sternbauer",
+    "year": "2026_SS",
+    "status": 1
   }
 ]
